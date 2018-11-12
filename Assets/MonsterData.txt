@@ -1,0 +1,376 @@
+Brass Dragon, Young	Dragon	CG	Large	6	17	110	NO	2d10+4	2d6+4
+Bronze Dragon, Adult	Dragon	LG	Huge	15	19	212	NO	2d10+7	2d6+7
+Bronze Dragon, Ancient	Dragon	LG	Gargantuan	22	22	444	NO	2d10+9	2d6+9
+Bronze Dragon, Wyrmling	Dragon	LG	Medium	2	17	32	NO	1d10+3	3d10
+Bronze Dragon, Young	Dragon	LG	Large	8	18	142	NO	2d10+5	2d6+5
+Brown Bear	Beast	U	Large	1	11	34	NO	1d8+4	2d6+4
+Bugbear	Humanoid	CE	Medium	1	16	27	NO	2d8+2	2d6+2
+Bugbear Chief	Humanoid	CE	Medium	3	17	65	NO	2d8+3	2d6+3
+Bulette	Monstrosity	U	Large	5	17	94	NO	4d12+4	N/A
+Bullywug	Humanoid	NE	Medium	1/4	15	11	NO	1d4+1	1d8+1
+Cambion	Fiend	E	Medium	5	19	82	YES	1d8+1d6+4	3d6
+Camel	Beast	U	Large	1/8	9	15	NO	1d4	N/A
+Carrion Crawler	Monstrosity	U	Large	2	13	51	NO	1d4+2	2d4+2
+Cat	Beast	U	Tiny	0	12	2	NO	1	N/A
+Centaur	Monstrosity	NG	Large	2	12	45	NO	1d10+4	2d6+4
+Chain Devil	Fiend (Devil)	LE	Medium	8	16	85	NO	2d6+4	N/A
+Chasme	Fiend (Demon)	CE	Large	6	15	84	NO	11d6+2	N/A
+Chimera	Monstrosity	CE	Large	6	14	114	NO	2d6+4	1d12+4
+Chuul	Aberration	CE	Large	4	16	93	NO	2d6+4	N/A
+Clay Golem	Construct	U	Large	9	14	133	NO	2d10+5	N/A
+Cloaker	Aberration	CN	Large	8	14	78	NO	2d6+3	1d8+3
+Cloud Giant	Giant	N	Huge	9	14	200	YES	3d8+8	4d10+8
+Cockatrice	Monstrosity	U	Small	1/2	11	27	NO	1d4+1	N/A
+Commoner	Humanoid	ANY	Medium	0	10	4	NO	1d4	N/A
+Constrictor Snake	Beast	U	large	1/4	12	13	NO	1d6+2	1d8+2
+Copper Dragon, Adult	Dragon	CG	Huge	14	18	184	NO	2d10+6	2d6+6
+Copper Dragon, Ancient	Dragon	CG	Gargantuan	21	21	350	NO	2d10+8	2d6+8
+Copper Dragon, Wyrmling	Dragon	CG	Medium	1	16	22	NO	1d10+2	4d8
+Copper Dragon, Young	Dragon	CG	Large	7	17	119	NO	2d10+4	2d6+4
+Couatl	Celestial	LG	Medium	4	19	97	YES	1d6+5	2d6+3
+Crab	Beast	U	Tiny	0	11	2	NO	1	N/A
+Crawling Claw	Undead	NE	Tiny	0	12	2	NO	1d4+1	N/A
+Crocodile	Beast	U	Large	1/2	12	19	NO	1d10+2	N/A
+Cult Fanatic	Humanoid	NOT GOOD	Medium	2	13	33	YES	1d4+2	N/A
+Cultist	Humanoid	NOT GOOD	Medium	1/8	12	9	NO	1d6+1	N/A
+Cyclops	Giant	CN	Huge	6	14	138	NO	3d8+6	4d10+6
+Dao	Elemental	NE	Large	11	18	187	YES	2d8+6	4d6+6
+Darkmantle	Monstrosity	U	Small	1/2	11	22	NO	1d6+3	N/A
+Death Dog	Monstrosity	NE	Medium	1	12	39	NO	1d6+2	N/A
+Death Knight	Undead	CE	Medium	17	20	180	YES	1d10+4d8+5	N/A
+Death Slaad	Aberration	CE	Medium	10	18	170	YES	1d8+2d6+5	1d10+2d6+5
+Death Tyrant	Undead	LE	Large	14	19	187	NO	4d6	N/A
+Deer	Beast	U	Medium	0	13	4	NO	1d4	N/A
+Demilich	Undead	NE	Tiny	18	20	80	NO	6d6	N/A
+Deva	Celestial	LG	Medium	10	17	136	YES	4d8+1d6+4	N/A
+Dire Wolf	Beast	U	Large	1	14	37	NO	2d6+3	N/A
+Displacer Beast	Monstrosity	LE	Large	3	13	85	NO	2d6+4	N/A
+Djinni	Elemental	CG	Large	11	17	161	YES	2d6+5	N/A
+Doppelganger	Monstrosity	N	Medium	3	14	52	NO	1d6+4	N/A
+Dracolich	Undead	LE	VARIES	17	19	225	NO	3d10+7	2d6+7
+Draft Horse	Beast	U	Large	1/4	10	19	NO	2d4+4	N/A
+Dragon Turtle	Dragon	N	Gargantuan	17	20	341	NO	3d12+7	2d8+7
+Dretch	Fiend (Demon)	CE	small	1/4	11	18	NO	1d6	2d4
+Drider	Monstrosity	CE	Large	6	19	123	YES	2d8+1d4	1d10+3
+Drow	Humanoid	NE	Medium	1/4	15	13	NO	1d6+2	1d6+2
+Drow Elite Warrior	Humanoid	NE	Medium	5	18	71	NO	4d6+4	1d6+4
+Drow Mage	Humanoid	NE	Medium	7	12	45	YES	1d8+1d6-1	N/A
+Drow Priestess of Lolth	Humanoid	NE	Medium	8	16	71	NO	6d6+2	N/A
+Druid	Humanoid	ANY	Medium	2	11	27	YES	1d8	N/A
+Dryad	Fey	N	Medium	1	11	22	YES	1d8+4	N/A
+Duergar	Humanoid	LE	Medium	1	16	26	NO	1d8+2	1d6+2
+Duodrone	Construct	LN	Medium	1/4	15	11	NO	1d4	1d6+1
+Dust Mephit	Elemental	NE	Small	1/2	12	17	NO	1d4+2	N/A
+Eagle	Beast	U	Small	0	12	3	NO	1d4+2	N/A
+Earth Elemental	Elemental	N	Large	5	17	126	NO	2d8+5	N/A
+Efreeti	Elemental	LE	Large	11	17	200	YES	2d6+6	5d6
+Elephant	Beast	U	Huge	4	12	76	NO	3d8+5	3d10+5
+Elk	Beast	U	Large	1/4	10	13	NO	1d6+3	2d4+3
+Empyrean	Celestial	CG OR NE	Huge	23	22	313	YES	6d6+10	7d6
+Erinyes	Fiend (Devil)	LE	Medium	12	18	153	NO	3d8+1d10+4	4d8+3
+Ettercap	Monstrosity	NE	Medium	2	13	44	NO	2d8+2	2d4+2
+Ettin	Giant	CE	large	4	12	85	NO	2d8+5	2d8+5
+Faerie Dragon	Dragon	CG	Tiny	1	15	14	YES	1	N/A
+Fire Elemental	Elemental	N	large	5	13	102	NO	2d6+3	N/A
+Fire Giant	Giant	LE	Huge	9	18	162	NO	6d6+7	4d10+7
+Fire Snake	Elemental	NE	Medium	1	14	22	NO	1d6+1d4+1	1d6+1d4+1
+Flameskull	Undead	NE	Tiny	4	13	40	YES	3d6	N/A
+Flesh Golem	Construct	N	Medium	5	9	93	NO	2d8+4	N/A
+Flumph	Aberration	LG	Small	1/8	12	7	NO	2d4+2	N/A
+Flying Snake	Beast	U	Tiny	1/8	14	5	NO	3d4+1	N/A
+Flying Sword	Construct	U	Small	1/4	17	17	NO	1d8+1	N/A
+Fomorian	Giant	CE	Huge	8	14	149	NO	3d8+6	6d8
+Frog	Beast	U	Tiny	0	11	1	NO	N/A	N/A
+Frost Giant	Giant	NE	Huge	8	15	138	NO	3d12+6	4d10+6
+Galeb Duhr	Elemental	N	Medium	6	16	85	NO	2d6+5	N/A
+Gargoyle	Elemental	CE	Medium	2	15	52	NO	1d6+2	1d6+2
+Gas Spore	Plant	U	Large	1/2	5	1	NO	1	N/A
+Gelatinous Cube	Ooze	U	Large	2	6	84	NO	3d6	N/A
+Ghast	Undead	CE	Medium	2	13	36	NO	2d8+3	2d6+3
+Ghost	Undead	ANY	Medium	4	11	45	NO	4d6+3	N/A
+Ghoul	Undead	CE	Medium	1	12	22	NO	2d6+2	2d4+2
+Giant Ape	Beast	U	Huge	7	12	157	NO	3d10+6	7d6+6
+Giant Badger	Beast	U	Medium	1/4	10	13	NO	1d6+1	2d4+1
+Giant Bat	Beast	U	Large	1/4	13	22	NO	1d6+2	N/A
+Giant Boar	Beast	U	Large	2	12	42	NO	10d6+3	N/A
+Giant Centipede	Beast	U	small	1/4	13	4	NO	1d4+2	N/A
+Giant Constrictor Snake	Beast	U	Huge	2	12	60	NO	2d6+4	2d8+4
+Giant Crab	Beast	U	Medium	1/8	15	13	NO	1d6+1	N/A
+Giant Crocodile	Beast	U	Huge	5	14	85	NO	3d10+5	2d8+5
+Giant Eagle	Beast	U	Large	1	13	26	NO	1d6+3	2d6+3
+Giant Elk	Beast	U	Huge	2	14	42	NO	2d6+4	4d8+4
+Giant Fire Beetle	Beast	U	small	0	13	4	NO	1d6-1	N/A
+Giant Frog	Beast	U	Medium	1/4	11	18	NO	1d6+1	N/A
+Giant Goat	Beast	U	Large	1/2	11	19	NO	2d4+3	N/A
+Giant Hyena	Beast	U	Large	1	12	45	NO	2d6+3	N/A
+Giant Lizard	Beast	U	Large	1/4	12	19	NO	1d8+2	N/A
+Giant Octopus	Beast	U	Large	1	11	52	NO	2d6+3	N/A
+Giant Owl	Beast	U	Large	1/4	12	19	NO	2d6+1	N/A
+Giant Poisonous Snake	Beast	U	Medium	1/4	14	11	NO	1d4+4	N/A
+Giant Rat	Beast	U	Small	1/8	12	7	NO	1d4+2	N/A
+Giant Scorpion	Beast	U	Large	3	15	52	NO	1d8+2	1d10+2
+Giant Sea Horse	Beast	U	Large	1/2	13	16	NO	1d6+1	N/A
+Giant Shark	Beast	U	Huge	5	13	126	NO	3d10+6	N/A
+Giant Spider	Beast	U	Large	1	14	26	NO	1d8+3	N/A
+Giant Toad	Beast	U	Large	1	11	39	NO	2d10+2	N/A
+Giant Vulture	Beast	NE	Large	1	10	22	NO	2d4+4	2d6+2
+Giant Wasp	Beast	U	Medium	1/2	12	13	NO	1d6+2	N/A
+Giant Weasel	Beast	U	Medium	1/8	13	9	NO	1d4+3	N/A
+Giant Wolf Spider	Beast	U	Medium	1/4	13	11	NO	1d6+1	N/A
+Gibbering Mouther	Aberration	N	Medium	2	9	67	NO	5d6	N/A
+Githyanki Knight	Humanoid	LE	Medium	8	18	91	YES	5d6+6	N/A
+Githyanki Warrior	Humanoid	LE	Medium	3	17	46	YES	4d6+2	N/A
+Githzerai Monk	Humanoid	LN	Medium	2	14	38	YES	3d8+2	N/A
+Githzerai Zerth	Humanoid	LN	Medium	6	17	84	YES	2d6+3d8+4	N/A
+Glabrezu	Fiend (Demon)	CE	Large	9	17	157	YES	2d10+5	2d4+2
+Gladiator	Humanoid	ANY	Medium	5	16	112	NO	2d8+4	2d4+4
+Gnoll	Humanoid	CE	Medium	1/2	15	22	NO	1d4+2	1d8+2
+Gnoll Fang of Yeenoghu	Humanoid	CE	Medium	4	14	65	NO	1d6+3	1d8+3
+Gnoll Pack Lord	Humanoid	CE	Medium	2	15	49	NO	1d4+3	1d10+3
+Gnome, Deep (Svirfneblin)	Humanoid	NG	Small	1/2	15	16	YES	1d8+3	N/A
+Goat	Beast	U	Medium	0	10	4	NO	1d4+1	N/A
+Goblin	Humanoid	NE	small	1/4	15	7	NO	1d6+2	1d6+2
+Goblin Boss	Humanoid	NE	small	1	17	21	NO	1d6+2	1d6+2
+Gold Dragon, Adult	Dragon	LG	Huge	17	19	256	NO	2d10+8	2d6+8
+Gold Dragon, Ancient	Dragon	LG	Gargantuan	24	22	546	NO	2d10+10	2d6+10
+Gold Dragon, Wyrmling	Dragon	LG	Medium	3	17	60	NO	1d10+4	4d10
+Gold Dragon, Young	Dragon	LG	Large	10	18	178	NO	2d10+6	2d6+6
+Gorgon	Construct	U	Large	5	19	114	NO	2d12+5	2d10+5
+Goristro	Fiend (Demon)	CE	Huge	17	19	310	NO	3d8+7	3d10+7
+Gray Ooze	Ooze	U	Medium	1/2	8	22	NO	3d6+1	N/A
+Gray Slaad	Aberration	CN	Medium	9	18	127	YES	1d6+3	1d10+3
+Green Dragon, Adult	Dragon	LE	Huge	15	19	207	NO	2d10+2d6+6	2d6+6
+Green Dragon, Ancient	Dragon	LE	Gargantuan	22	21	385	NO	2d10+3d6+8	4d6+8
+Green Dragon, Wyrmling	Dragon	LE	Medium	2	17	38	NO	1d10+1d6+2	6d6
+Green Dragon, Young	Dragon	LE	Large	8	18	136	NO	2d10+2d6+4	2d6+4
+Green Hag	Fey	NE	Medium	3	17	82	YES	2d8+4	N/A
+Green Slaad	Aberration	CN	Large	8	16	127	YES	2d6+4	1d6+4
+Grell	Aberration	NE	Medium	3	12	55	NO	1d10+2	2d4+2
+Grick	Monstrosity	N	Medium	2	14	27	NO	2d6+2	1d6+2
+Grick Alpha	Monstrosity	N	Medium	7	18	75	NO	2d6+4	4d8+4
+Griffon	Monstrosity	U	Large	2	12	59	NO	1d8+4	2d6+4
+Grimlock	Humanoid	NE	Medium	1/4	11	11	NO	2d4+3	N/A
+Guard	Humanoid	ANY	Medium	1/8	16	11	NO	1d6+1	N/A
+Guardian Naga	Monstrosity	LG	Large	10	18	127	YES	1d8+4	N/A
+Gynosphinx	Monstrosity	LN	Large	11	17	136	YES	2d8+4	N/A
+Half Ogre	Giant	C	Large	1	12	30	NO	2d10+3	2d6+3
+Half-Red Dragon Veteran	Humanoid	ANY	Medium	5	18	65	NO	1d10+3	1d6+3
+Harpy	Monstrosity	CE	Medium	1	11	38	NO	2d4+1	1d4+1
+Hawk	Beast	U	Tiny	0	13	11	NO	1	N/A
+Hell Hound	Fiend	LE	Medium	3	15	45	NO	1d8+2d6+3	6d6
+Helmed Horror	Construct	N	Medium	4	20	60	NO	1d10+4	N/A
+Hezrou	Fiend (Demon)	CE	Large	8	16	136	NO	2d10+4	2d6+4
+Hill Giant	Giant	CE	Huge	5	13	105	NO	3d8+5	3d10+5
+Hippogriff	Monstrosity	U	Large	1	11	19	NO	1d10+3	2d6+3
+Hobgoblin	Humanoid	LE	Medium	1/2	18	11	NO	1d10+1	1d8+1
+Hobgoblin Captain	Humanoid	LE	Medium	3	17	39	NO	2d6+2	1d6+2
+Hobgoblin Warlord	Humanoid	LE	Medium	6	20	97	NO	1d10+3	1d4+3
+Homunculus	Construct	N	Tiny	0	13	5	NO	1	N/A
+Hook Horror	Monstrosity	N	Large	3	15	75	NO	2d6+4	N/A
+Horned Devil	Fiend (Devil)	LE	Large	11	18	178	NO	2d8+6	1d8+6
+Hunter Shark	Beast	U	Large	2	12	45	NO	2d8+4	N/A
+Hydra	Monstrosity	U	Huge	8	15	172	NO	1d10+5	N/A
+Hyena	Beast	U	Medium	0	11	5	NO	1d6	N/A
+Ice Devil	Fiend (Devil)	LE	Large	14	18	180	NO	5d6+5	2d4+3d6+5
+Ice Mephit	Elemental	NE	Small	1/2	11	21	YES	2d4+1	2d4
+Imp	Fiend (Devil)	LE	Tiny	1	13	10	NO	1d4+3	N/A
+Intellect Devourer	Aberration	LE	Tiny	2	12	21	NO	2d4+2	N/A
+Invisible Stalker	Elemental	N	Medium	6	14	104	NO	2d6+3	N/A
+Iron Golem	Construct	U	Large	16	20	210	NO	3d8+7	3d10+7
+Jackal	Beast	U	Small	0	12	3	NO	1d4-1	N/A
+Jackalwere	Humanoid	CE	Medium	1/2	12	18	NO	1d4+2	1d6+2
+Kenku	Humanoid	CN	Medium	1/4	13	13	NO	1d6+3	1d6+3
+Killer Whale	Beast	U	Huge	3	12	90	NO	5d6+4	N/A
+Knight	Humanoid	ANY	Medium	3	18	52	NO	2d6+3	1d10
+Kobold	Humanoid	LE	Small	1/8	12	5	NO	1d4+2	1d4+2
+Kraken	Monstrosity	CE	Gargantuan	23	18	472	NO	3d8+10	3d6+10
+Kuo-Toa	Humanoid	NE	Medium	1/4	13	18	NO	1d4+1	1d8+1
+Kuo-Toa Archpriest	Humanoid	NE	Medium	6	13	97	YES	5d6+3	1d4+2
+Kuo-Toa Whip	Humanoid	NE	Medium	1	11	65	YES	1d4+2	1d6+2
+Lamia	Monstrosity	CE	Large	4	13	97	YES	2d10+3	1d4+3
+Lemure	Fiend (Devil)	LE	Medium	0	7	13	NO	1d4	N/A
+Lich	Undead	E	Medium	21	17	135	YES	3d6	N/A
+Lion	Beast	U	Large	1	12	26	NO	1d8+3	1d6+3
+Lizard	Beast	U	Tiny	0	10	2	NO	1	N/A
+Lizard King/Queen	Humanoid	CE	Medium	4	15	78	NO	1d6+3	1d4+3
+Lizardfolk	Humanoid	N	Medium	1/2	15	22	NO	1d6+2	1d6+2
+Lizardfolk Shaman	Humanoid	N	Medium	2	13	27	YES	1d6+2	1d4+2
+Mage	Humanoid	ANY	Medium	6	12	40	YES	1d4+2	N/A
+Magma Mephit	Elemental	NE	Small	1/2	11	22	YES	2d4+1	N/A
+Magmin	Elemental	CN	Small	1/2	14	9	NO	2d6	N/A
+Mammoth	Beast	U	Huge	6	13	126	NO	4d8+7	4d10+7
+Manes	Fiend (Demon)	CE	Small	1/8	9	9	NO	2d4	N/A
+Manticore	Monstrosity	LE	Large	3	14	68	NO	1d8+3	1d6+3
+Marid	Elemental	CN	Large	11	17	229	YES	2d8+6	6d6
+Marilith	Fiend (Demon)	CE	Large	16	18	189	NO	2d8+4	2d10+4
+Mastiff	Beast	U	Medium	1/8	12	5	NO	1d6+1	N/A
+Medusa	Monstrosity	LE	Medium	6	15	127	NO	1d4+4d6+2	1d6+2
+Merfolk	Humanoid	N	Medium	1/8	11	11	NO	1d8	N/A
+Merrow	Monstrosity	CE	Large	2	13	45	NO	1d8+4	2d4+4
+Mezzoloth	Fiend	NE	Medium	5	18	75	YES	2d4+4	1d6+4
+Mimic	Monstrosity	N	Medium	2	12	58	NO	1d8+3	2d8+3
+Mind Flayer	Aberration	LE	Medium	7	15	71	YES	2d10+4	10d10
+Minotaur	Monstrosity	CE	Large	3	14	76	NO	2d12+4	2d8+4
+Minotaur Skeleton	Undead	LE	Large	2	12	67	NO	2d12+4	2d8+4
+Monodrone	Construct	LN	Medium	1/8	15	5	NO	1d4+1	1d6+1
+Mud Mephit	Elemental	NE	Small	1/4	11	27	NO	1d6+1	N/A
+Mule	Beast	U	Medium	1/8	10	11	NO	1d4+2	N/A
+Mummy	Undead	LE	Medium	3	11	58	NO	5d6+3	N/A
+Mummy Lord	Undead	LE	Medium	15	17	97	YES	9d6+4	N/A
+Myconid Adult	Plant	LN	Medium	1/2	12	22	NO	4d4	N/A
+Myconid Sovereign	Plant	LN	Large	2	13	60	NO	6d4+1	N/A
+Myconid Sprout	Plant	LN	Small	0	10	7	NO	2d4-1	N/A
+Nalfeshnee	Fiend (Demon)	LE	Large	13	18	184	NO	5d10+5	3d6+5
+Needle Blight	Plant	NE	Medium	1/4	12	11	NO	2d4+1	2d6+1
+Night Hag	Fiend	NE	Medium	5	17	112	YES	2d8+4	N/A
+Nightmare	Fiend	NE	Large	3	13	68	NO	2d8+2d6+4	N/A
+Noble	Humanoid	ANY	Medium	1/8	15	9	NO	1d8+1	N/A
+Nothic	Aberration	NE	Medium	2	15	45	NO	1d6+3	N/A
+Nycaloth	Fiend	NE	Large	9	18	123	YES	2d6+5	2d12+5
+Ochre Jelly	Ooze	U	Large	2	8	45	NO	3d6+2	N/A
+Octopus	Beast	U	Small	0	12	3	NO	1	N/A
+Ogre	Giant	CE	Large	2	11	59	NO	2d8+4	2d6+4
+Ogre Zombie	Undead	NE	Large	2	8	85	NO	2d8+6	N/A
+Oni	Giant	LE	Large	7	16	110	YES	1d8+4	2d10+4
+Orc	Humanoid	CE	Medium	1/2	13	15	NO	1d12+3	1d6+3
+Orc Eye of Gruumsh	Humanoid	CE	Medium	2	16	45	YES	2d8+3	N/A
+Orc War Chief	Humanoid	CE	Medium	4	16	93	NO	1d12+1d8+4	2d8+4
+Orog	Humanoid	CE	Medium	2	18	42	NO	1d12+4	1d6+4
+Otyugh	Aberration	N	Large	5	14	114	NO	2d8+3	2d8+3
+Owl	Beast	U	Tiny	0	11	1	NO	1	N/A
+Owlbear	Monstrosity	U	Large	3	13	59	NO	1d10+5	2d8+5
+Panther	Beast	U	Medium	1/4	12	13	NO	1d6+2	1d4+2
+Pegasus	Celestial	CG	Large	2	12	59	NO	2d6+4	N/A
+Pentadrone	Construct	LN	Large	2	16	32	NO	1d6+2	N/A
+Peryton	Monstrosity	CE	Medium	2	13	33	NO	1d8+3	2d4+3
+Phase Spider	Monstrosity	U	Large	3	13	32	NO	1d10+2	N/A
+Piercer	Monstrosity	U	Medium	1/2	15	22	NO	VARIES	N/A
+Pit Fiend	Fiend (Devil)	LE	Large	20	19	300	YES	4d6+8	2d8+8
+Pixie	Fey	NG	Tiny	1/4	15	1	YES	N/A	N/A
+Planetar	Celestial	LG	Large	16	19	200	YES	4d6+5d8+7	N/A
+Plesiosaurus	Beast	U	Large	2	13	68	NO	3d6+4	N/A
+Poisonous Snake	Beast	U	Tiny	1/8	13	2	NO	1	N/A
+Polar Bear	Beast	U	Large	2	12	42	NO	1d8+5	2d6+5
+Pony	Beast	U	Medium	1/8	10	11	NO	2d4+2	N/A
+Priest	Humanoid	ANY	Medium	2	13	27	YES	1d6	N/A
+Pseudodragon	Dragon	NG	Tiny	1/4	13	7	NO	1d4+2	1d4+2
+Pteranodon	Beast	U	Medium	1/4	13	13	NO	2d4+1	N/A
+Purple Worm	Monstrosity	U	Gargantuan	15	18	247	NO	3d8+9	15d6+9
+Quadrone	Construct	LN	Medium	1	16	22	NO	1d4+1	1d6+1
+Quaggoth	Humanoid	CN	Medium	2	13	45	NO	1d6+3	N/A
+Quaggoth Spore Servant	Plant	U	Medium	1	13	45	NO	1d6+3	N/A
+Quasit	Fiend (Demon)	CE	Tiny	1	13	7	NO	1d4+3	N/A
+Quipper	Beast	U	Tiny	0	13	1	NO	1	N/A
+Rakshasa	Fiend	LE	Medium	13	16	110	YES	2d6+2	N/A
+Rat	Beast	U	Tiny	0	10	1	NO	N/A	N/A
+Raven	Beast	U	Tiny	0	12	1	NO	1	N/A
+Red Dragon, Adult	Dragon	CE	Huge	17	19	256	NO	2d10+2d6+8	2d6+8
+Red Dragon, Ancient	Dragon	CE	Gargantuan	24	22	546	NO	2d10+4d6+10	2d6+10
+Red Dragon, Wyrmling	Dragon	CE	Medium	4	17	75	NO	1d10+1d6+4	7d6
+Red Dragon, Young	Dragon	CE	Large	10	18	178	NO	2d10+1d6+6	2d6+6
+Red Slaad	Aberration	CN	Large	5	14	93	NO	2d4+3	1d8+3
+Reef Shark	Beast	U	Medium	1/2	12	22	NO	1d8+2	N/A
+Remorhaz	Monstrosity	U	Huge	11	17	195	NO	6d10+3d6+7	N/A
+Revenant	Undead	N	Medium	5	13	136	NO	2d6+4	N/A
+Rhinoceros	Beast	U	Large	2	11	45	NO	2d8+5	N/A
+Riding Horse	Beast	U	Large	1/4	10	13	NO	2d4+3	N/A
+Roc	Monstrosity	U	Gargantuan	11	15	248	NO	4d8+9	4d6+9
+Roper	Monstrosity	NE	Large	5	20	93	NO	4d8+4	N/A
+Rug of Smothering	Construct	U	Large	2	12	33	NO	2d6+3	N/A
+Rust Monster	Monstrosity	U	Medium	1/2	14	27	NO	1d8+1	N/A
+Saber-Toothed Tiger	Beast	U	Large	2	12	52	NO	1d10+5	2d6+5
+Sahuagin	Humanoid	LE	Medium	1/2	12	22	NO	1d4+1	1d4+1
+Sahuagin Baron	Humanoid	LE	Large	5	16	76	NO	2d4+4	2d6+4
+Sahuagin Priestess	Humanoid	LE	Medium	2	12	33	YES	1d4+1	1d4+1
+Salamander	Elemental	NE	Large	5	15	90	NO	2d8+1d6+4	4d6+4
+Satyr	Fey	CN	Medium	1/2	14	31	NO	2d4+1	1d6+3
+Scarecrow	Construct	CE	Medium	1	11	36	NO	2d4+1	N/A
+Scorpion	Beast	U	Tiny	0	11	1	NO	1	N/A
+Scout	Humanoid	ANY	Medium	1/2	13	16	NO	1d6+2	1d8+2
+Sea Hag	Fey	CE	Medium	2	14	52	NO	2d6+3	N/A
+Sea Horse	Beast	U	Tiny	0	11	1	NO	N/A	N/A
+Shadow	Undead	CE	Medium	1/2	12	16	NO	2d6+2	N/A
+Shadow Demon	Fiend (Demon)	CE	Medium	4	13	66	NO	2d6+3	N/A
+Shadow Dragon	Dragon	CE	VARIES	13	18	178	NO	2d10+1d6+6	2d6+6
+Shambling Mound	Plant	U	Large	5	15	136	NO	2d8+4	N/A
+Shield Guardian	Construct	U	Large	7	17	142	NO	2d6+4	N/A
+Shrieker	Plant	U	Medium	0	5	13	NO	N/A	N/A
+Silver Dragon, Adult	Dragon	LG	Huge	16	19	243	NO	2d10+8	2d6+8
+Silver Dragon, Ancient	Dragon	LG	Gargantuan	23	22	487	NO	2d10+10	2d6+10
+Silver Dragon, Wyrmling	Dragon	LG	Medium	2	17	45	NO	1d10+4	4d8
+Silver Dragon, Young	Dragon	LG	Large	9	18	168	NO	2d10+6	2d6+6
+Skeleton	Undead	LE	Medium	1/4	13	13	NO	1d6+2	1d6+2
+Slaad Tadpole	Aberration	CN	Tiny	1/8	12	10	NO	1d4+2	N/A
+Smoke Mephit	Elemental	NE	Small	1/4	12	22	YES	1d4+2	N/A
+Solar	Celestial	LG	Large	21	21	243	YES	4d6+6d8+8	8d8+6
+Spectator	Aberration	LN	Medium	3	14	39	NO	1d6-1	N/A
+Specter	Undead	CE	Medium	1	12	22	NO	1d6	N/A
+Spider	Beast	U	Tiny	0	12	1	NO	1	N/A
+Spined Devil	Fiend (Devil)	LE	Small	2	15	110	NO	1d6+3	2d6+3
+Spirit Naga	Monstrosity	CE	Large	8	15	75	YES	1d6+4	N/A
+Sprite	Fey	NG	Tiny	1/4	15	2	NO	1	N/A
+Spy	Humanoid	ANY	Medium	1	12	27	NO	1d6+2	1d6+2
+Steam Mephit	Elemental	NE	Small	1/4	10	21	YES	2d4	N/A
+Stirge	Beast	U	Tiny	1/8	14	2	NO	1d4+3	N/A
+Stone Giant	Giant	N	Huge	7	17	126	NO	3d8+6	4d10+6
+Stone Golem	Construct	U	Large	10	17	178	NO	3d8+6	N/A
+Storm Giant	Giant	CG	Huge	13	16	230	YES	6d6+9	4d12+9
+Succubus/Incubus	Fiend	NE	Medium	4	15	66	NO	1d6+3	N/A
+Swarm of Bats	Beast	U	Medium	1/4	12	22	NO	VARIES	N/A
+Swarm of Insects	Beast	U	Medium	1/2	12	22	NO	VARIES	N/A
+Swarm of Poisonous Snakes	Beast	U	Medium	2	14	36	NO	VARIES	N/A
+Swarm of Quippers	Beast	U	Medium	1	13	28	NO	VARIES	N/A
+Swarm of Rats	Beast	U	Medium	1/4	10	24	NO	VARIES	N/A
+Swarm of Ravens	Beast	U	Medium	1/4	12	24	NO	VARIES	N/A
+Tarrasque	Monstrosity	U	Gargantuan	30	25	676	NO	4d8+10	4d10+10
+Thri-Kreen	Humanoid	CN	Medium	1	15	33	NO	1d6+1	2d4+1
+Thug	Humanoid	NOT GOOD	Medium	1/2	11	32	NO	1d6+2	1d10
+Tiger	Beast	U	Large	1	12	37	NO	1d10+3	1d8+3
+Treant	Plant	CG	Huge	9	16	138	NO	3d6+6	4d10+6
+Tribal Warrior	Humanoid	ANY	Medium	1/8	12	11	NO	1d8+1	N/A
+Triceratops	Beast	U	Huge	5	13	95	NO	4d8+6	3d10+6
+Tridrone	Construct	LN	Medium	1/2	15	16	NO	1d4+1	1d6+1
+Troglodyte	Humanoid	CE	Medium	1/4	11	13	NO	1d4+2	1d4+2
+Troll	Giant	CE	Large	5	15	84	NO	1d6+4	2d6+4
+Twig Blight	Plant	NE	Small	1/8	13	4	NO	1d4+1	N/A
+Tyrannosaurus Rex	Beast	U	Huge	8	13	136	NO	4d12+7	3d8+7
+Ultroloth	Fiend	NE	Medium	13	19	153	YES	1d10+3	N/A
+Umber Hulk	Monstrosity	CE	Large	5	18	93	NO	1d8+5	2d8+5
+Unicorn	Celestial	LG	Large	5	12	67	YES	2d6+4	1d8+4
+Vampire	Undead	LE	Medium	13	16	144	NO	4d6+4	N/A
+Vampire Spawn	Undead	NE	Medium	5	15	82	NO	2d4+3	3d6+3
+Veteran	Humanoid	ANY	Medium	3	17	58	NO	1d10+3	1d6+3
+Vine Blight	Plant	NE	Medium	1/2	12	26	NO	2d6+2	N/A
+Violet Fungus	Plant	U	Medium	1/4	5	18	NO	1d8	N/A
+Vrock	Fiend (Demon)	CE	Large	6	15	104	NO	2d6+3	2d10+3
+Vulture	Beast	U	Medium	0	10	5	NO	1d4	N/A
+Warhorse	Beast	U	Large	1/2	11	19	NO	2d6+4	N/A
+Warhorse Skeleton	Undead	LE	Large	1/2	13	22	NO	2d6+4	N/A
+Water Elemental	Elemental	N	Large	5	14	114	NO	2d8+4	N/A
+Water Weird	Elemental	N	Large	3	13	58	NO	2d6+3	N/A
+Weasel	Beast	U	Tiny	0	13	1	NO	1	N/A
+Werebear	Humanoid	NG	Medium	5	11	135	NO	2d10+4	N/A
+Wereboar	Humanoid	NE	Medium	4	11	78	NO	2d6+3	2d6+3
+Wererat	Humanoid	LE	Medium	2	12	35	NO	1d4+2	1d6+2
+Weretiger	Humanoid	N	Medium	4	12	120	NO	1d10+3	1d8+3
+Werewolf	Humanoid	CE	Medium	3	12	58	NO	1d8+2	2d4+2
+White Dragon, Adult	Dragon	CE	Huge	13	18	200	NO	2d10+1d8+6	2d6+6
+White Dragon, Ancient	Dragon	CE	Gargantuan	20	20	333	NO	2d10+2d8+8	2d6+8
+White Dragon, Wyrmling	Dragon	CE	Medium	2	16	32	NO	1d10+1d4+2	5d8
+White Dragon, Young	Dragon	CE	Large	6	14	135	NO	2d10+1d8+4	2d6+4
+Wight	Undead	NE	Medium	3	14	45	NO	1d6+2	1d10+2
+Will-O'-Wisp	Undead	CE	Tiny	2	19	22	NO	2d8	N/A
+Winged Kobold	Humanoid	LE	Small	1/4	13	7	NO	1d4+3	1d6+3
+Winter Wolf	Monstrosity	NE	Large	3	13	75	NO	2d6+4	4d8
+Wolf	Beast	U	Medium	1/4	13	11	NO	2d4+4	N/A
+Worg	Monstrosity	NE	Large	1/2	13	26	NO	2d6+3	N/A
+Wraith	Undead	NE	Medium	5	13	67	NO	4d8+3	N/A
+Wyvern	Dragon	U	Large	6	13	110	NO	2d6+4	2d8+4
+Xorn	Elemental	N	Medium	5	19	73	NO	1d6+3	3d6+3
+Yeti	Monstrosity	CE	Large	3	12	51	NO	2d6+4	N/A
+Yochlol	Fiend (Demon)	CE	Medium	10	15	136	YES	7d6+2	N/A
+Young Remorhaz	Monstrosity	U	Large	5	14	93	NO	3d10+2d6+4	N/A
+Yuan-Ti Abomination	Monstrosity	NE	Large	7	15	127	YES	4d6+4	2d6+4
+Yuan-Ti Malison	Monstrosity	NE	Medium	3	12	66	YES	VARIES	N/A
+Yuan-Ti Pureblood	Monstrosity	NE	Medium	1	11	40	YES	1d6+1	1d6+1
+Zombie	Undead	NE	Medium	1/4	8	22	NO	1d6+1	N/A
